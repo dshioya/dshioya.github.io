@@ -1,2 +1,2 @@
-# dshioya.github.ioi
+# dshioya.github.io
 first github pages
